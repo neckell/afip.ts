@@ -1,5 +1,5 @@
 {
-  "name": "afip.ts",
+  "name": "afip-ws-node",
   "version": "3.2.3",
   "description": "Afip typescript SDK",
   "source": "src/index.ts",
@@ -15,7 +15,7 @@
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
   },
-  "author": "valiuLab",
+  "author": "neckell",
   "license": "ISC",
   "devDependencies": {
     "@jest/globals": "^29.6.2",
@@ -46,12 +46,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ralcorta/afip.ts.git"
+    "url": "git+https://github.com/neckell/afip.ts.git"
   },
   "bugs": {
-    "url": "https://github.com/ralcorta/afip.ts/issues"
+    "url": "https://github.com/neckell/afip.ts/issues"
   },
-  "homepage": "https://github.com/ralcorta/afip.ts#readme",
+  "homepage": "https://github.com/neckell/afip.ts#readme",
   "files": [
     "lib/**/*"
   ],
